@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/S1P1.dart';
-import 'package:flutter_application_1/S1P2.dart';
-import 'package:flutter_application_1/S1P3.dart';
+
+import 'package:flutter_application_1/S2P5.dart';
 
 void main() {
   runApp(App());
@@ -12,6 +11,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: S1p3());
+    return MaterialApp(home: S2p5());
   }
 }
