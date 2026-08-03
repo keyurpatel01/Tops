@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'package:flutter_assignment/S4P5.dart';
+import 'package:flutter_assignment/S5P5.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,6 +10,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, home: S4P5());
+    return MaterialApp(debugShowCheckedModeBanner: false, home: S5P5());
   }
 }
