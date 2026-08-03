@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:flutter_application_1/S2P5.dart';
+import 'package:flutter_application_1/S3P4.dart';
 
 void main() {
   runApp(App());
@@ -11,6 +11,6 @@ class App extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: S2p5());
+    return MaterialApp(home: S3p4());
   }
 }
